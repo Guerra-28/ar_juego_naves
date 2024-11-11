@@ -72,6 +72,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 
-/AR_JUEGONAVES/AR_JUEGONAVES_BurstDebugInformation_DoNotShip
+/AR_JUEGONAVES_BurstDebugInformation_DoNotShip
 
-/AR_JUEGONAVES/Packages
+/Packages
